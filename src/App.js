@@ -5,6 +5,8 @@ import Create from './create';
 import BlogDetails from './BlogDetails';
 import NotFound from './notFound';
 
+// App Function
+
 function App() {
   return (
     <Router>
